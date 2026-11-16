@@ -77,4 +77,5 @@ El controlador entiende también el formato antiguo, por si cambia el servicio.
 ## 👤 Autores
 
 Wilmer Buestán · Ingeniería de Software · Universidad de las Fuerzas Armadas ESPE
+
 Moises Benalcázar · Ingeniería de Software · Universidad de las Fuerzas Armadas ESPE
