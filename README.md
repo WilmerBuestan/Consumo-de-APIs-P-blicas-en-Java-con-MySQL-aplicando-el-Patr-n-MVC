@@ -74,6 +74,7 @@ El PDF del taller usa `https://restcountries.com/v3.1/all`. REST Countries pasó
 
 El controlador entiende también el formato antiguo, por si cambia el servicio.
 
-## 👤 Autor
+## 👤 Autores
 
 Wilmer Buestán · Ingeniería de Software · Universidad de las Fuerzas Armadas ESPE
+Moises Benalcázar · Ingeniería de Software · Universidad de las Fuerzas Armadas ESPE
