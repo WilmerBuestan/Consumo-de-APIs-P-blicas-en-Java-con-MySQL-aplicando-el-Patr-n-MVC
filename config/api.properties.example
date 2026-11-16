@@ -1,0 +1,5 @@
+# Copia este archivo como config/api.properties y pon tu key.
+# Créala en https://restcountries.com (panel "API Keys").
+# Este archivo real está en .gitignore: NO lo subas a GitHub.
+api.key=PON_AQUI_TU_API_KEY
+api.base=https://api.restcountries.com/countries/v5

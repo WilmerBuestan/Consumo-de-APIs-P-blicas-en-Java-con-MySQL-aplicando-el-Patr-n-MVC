@@ -1,0 +1,8 @@
+# Copia este archivo como config/db.properties y ajusta usuario/clave.
+# MySQL 8 (lo que pide el taller):
+#   db.url=jdbc:mysql://localhost:3306/api_paises
+# MariaDB (usa el conector jdbc:mariadb):
+#   db.url=jdbc:mariadb://localhost:3307/api_paises
+db.url=jdbc:mysql://localhost:3306/api_paises
+db.user=root
+db.password=12345

@@ -1,0 +1,14 @@
+# Maven / NetBeans
+target/
+nbproject/private/
+nbactions.xml
+*.class
+
+# SECRETOS: nunca subir la API key ni la clave de la base de datos
+config/api.properties
+config/db.properties
+
+# Varios
+*.log
+.DS_Store
+Thumbs.db
